@@ -1,4 +1,4 @@
-# Wikipedia_ML_Data_science_Project
+# Wikipedia_ML_Data_Science_Project
 ------------------
 
 Machine Learning, Data science, Wikipedia project – Python, Jupyter Notebook:
